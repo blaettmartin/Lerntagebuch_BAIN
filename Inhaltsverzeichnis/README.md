@@ -1,1 +1,1 @@
-[1. Lektion](Inhaltsverzeichnis/1. Lektion.md)
+[1. Lektion](1. Lektion.md)
