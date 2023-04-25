@@ -7,5 +7,5 @@ Inhaltsverzeichnis:
 [4. Lektion: Funktion und Aufbau von Bibliothekssystemen I](Inhalte/4.Lektion.md)  
 [5. Lektion: Funktion und Aufbau von Bibliothekssystemen II](Inhalte/5.Lektion.md)  
 [6. Lektion: Funktion und Aufbau von Archivsystemen](Inhalte/6.Lektion.md)  
-[- Übung Vergleich AtoM Demo zu ArchivesSpace](Inhalte/6.Uebung.md)
+[- Übung Vergleich AtoM Demo zu ArchivesSpace](Inhalte/6.Uebung.md)  
 [7. Lektion: Repository-Software für Publikationen und Forschungsdaten](Inhalte/7.Lektion.md)  
