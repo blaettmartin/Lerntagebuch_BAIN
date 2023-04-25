@@ -6,3 +6,4 @@ Inhaltsverzeichnis:
 [3. Lektion: Open Refine](Inhalte/3.Lektion.md)  
 [4. Lektion: Funktion und Aufbau von Bibliothekssystemen I](Inhalte/4.Lektion.md)  
 [5. Lektion: Funktion und Aufbau von Bibliothekssystemen II](Inhalte/5.Lektion.md)  
+[6. Lektion: Funktion und Aufbau von Archivsystemen](Inhalte/6.Lektion.md)  
