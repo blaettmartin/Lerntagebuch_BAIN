@@ -9,3 +9,4 @@ Inhaltsverzeichnis:
 [6. Lektion: Funktion und Aufbau von Archivsystemen](Inhalte/6.Lektion.md)  
 [- Übung Vergleich AtoM Demo zu ArchivesSpace](Inhalte/6.Uebung.md)  
 [7. Lektion: Repository-Software für Publikationen und Forschungsdaten](Inhalte/7.Lektion.md)  
+[8. Lektion: Metadaten modellieren und Schnittstellen nutzen](Inhalte/8.Lektion.md) 
