@@ -1,5 +1,8 @@
 # Lerntagebuch_BAIN
-Inhaltsverzeichnis:  
+
+Dieses Lerntagebuch wurde im Modul Bibliotheks- und Archivinformatik im Frühlingssemester 2023 geführt. Der Kurs wurde im Rahmen des Studiengangs Informations Science durchgeführt. Die Einträge zeigen dabei die Eindrücke, Fragen und Erkentnisse von Martina Blättler zu den einzelnen Lektionen und Übungen auf. Teilweise wird der Inhalt der Lektionen darin etwas zusammengetragen respektive vertieft und teilweise wurde in Exkursen damit zusammenhängende Themen beschrieben.
+
+### Inhaltsverzeichnis:  
 [Wo bin ich gestartet?](Inhalte/Start.md)  
 [1. Lektion: Technische Grundlagen I](Inhalte/1.Lektion.md)  
 [2. Lektion: Technische Grundlagen II](Inhalte/2.Lektion.md)  
