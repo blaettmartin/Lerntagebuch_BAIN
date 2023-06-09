@@ -1,7 +1,7 @@
 ## Wo bin ich gestartet?
 Ich arbeite aktuell im Stadtarchiv Zürich im Bereich Vermittlung und Erschliessung. In unserem Archiv gibt es eine eigene Fach-IT Abteilung, welche für uns die Anwendungen konfiguriert und weitere Dinge im Informatik Bereich löst. Da es bei der Stadt Zürich noch eine Übergreifende Informatik Dienstelle OIZ (Organisation und Informatik) gibt, wird bei uns nicht alles durch die Fach-IT gelöst.
 #### Erfahrungen aus dem Beruf:
-_Datenverarbeitung Museum und Repository - Museumplus & DORA
+_Datenverarbeitung Museum und Repository - Museumplus & DORA_
 
 Ich kenne folgende Archiv- & Bibliotheksanwendungen aus meiner Stelle oder aus einem früheren Praktikum:
 - Scope.Archive
