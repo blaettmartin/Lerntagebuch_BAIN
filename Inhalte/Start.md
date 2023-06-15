@@ -1,6 +1,6 @@
 ## Wo bin ich gestartet?
 
-Ich arbeite aktuell im Stadtarchiv Zürich im Bereich Vermittlung und Erschliessung. In unserem Archiv gibt es eine eigene Fach-IT Abteilung, welche für uns die Anwendungen konfiguriert und weitere Dinge im Informatik Bereich löst. Da es bei der Stadt Zürich noch eine Übergreifende Informatik Dienstelle OIZ (Organisation und Informatik) gibt, wird bei uns nicht alles durch die Fach-IT gelöst. Dadurch hatte ich bisher nur einen kleinen Einblick in die Welt der Bibliotheks- und Archivinformatik. Ich kenne gewisse Fachanwendungen und habe mit diesen gearbeitet, jedoch einfach auf der Anwenderinnen-Seite.
+Ich arbeite aktuell im Stadtarchiv Zürich im Bereich Vermittlung und Erschliessung. In unserem Archiv gibt es eine eigene Fach-IT Abteilung, welche für uns die Fachanwendungen konfiguriert und weitere Dinge im Informatik Bereich löst.  Dadurch hatte ich bisher nur einen kleinen Einblick in die Welt der Bibliotheks- und Archivinformatik. Ich kenne gewisse Fachanwendungen und habe mit diesen gearbeitet, jedoch einfach auf der Anwenderinnen-Seite.
 
 #### Erfahrungen aus dem Beruf:
 
@@ -10,9 +10,9 @@ Ich kenne folgende Archiv- & Bibliotheksanwendungen aus meiner Stelle oder aus e
 - CMI Archiv (früher CMI STAR)
 - Archives Quickaccess
 
-Diese Anwendungen wurden einfach für die Erfassung / Erschliessung verwendet. Tiefere Einblicke “hinter” die Anwendungen sind deshalb nicht bekannt. Ich arbeite im Bereich Vermittlung und Erschliessung und habe deshalb mehr mit der Metadaten Erfassung oder der Beantwortung von Rechercheaufträgen mit den Inhalten zu tun. In unserem Archiv gibt es eine interne Archiv-IT welche sich mit gewissen Anliegen von uns befassen. Bei der Erstellung eines neuen AV-Medien Formulars war ich beispielsweise beteiligt und habe die zu erstellenden Felder bestimmt. Die Implementierung in Scope.Archive wurde dann durch unsere Fach-IT umgesetzt.  
+Diese Anwendungen wurde von meiner Seite für die Erfassung / Erschliessung verwendet. 
 
-Ich hatte letztens noch eine eintägige berufliche Weiterbildung für die Qualitätskontrolle von digitalen Audiovisuellen Medien. Dort wurde die Anwendung QCTools, MediaConch, Mediainfo, ffprobe, fq und Hex-Editor betrachtet. Zudem wurden noch einige Befehle für im Terminal gezeigt, damit diese Anwendungen auch automatisiert laufen und die Qualitätskontrolle durchführen können. Es war aber ein Workshop für Einsteiger:innen und zeigte einfach auf welche Dinge mit diesen Anwendungen gemacht werden könnten.  
+Bei der Erstellung eines neuen AV-Medien Formulars war ich beispielsweise beteiligt und habe die zu erstellenden Felder bestimmt. Die Implementierung in Scope.Archive wurde dann durch unsere Fach-IT umgesetzt.  Ich hatte letztens noch eine eintägige berufliche Weiterbildung für die Qualitätskontrolle von digitalen Audiovisuellen Medien. Dort wurde die Anwendung QCTools, MediaConch, Mediainfo, ffprobe, fq und Hex-Editor betrachtet. Zudem wurden noch einige Befehle für im Terminal gezeigt, damit diese Anwendungen auch automatisiert laufen und die Qualitätskontrolle durchführen können. Es war aber ein Workshop für Einsteiger:innen und zeigte einfach auf welche Dinge mit diesen Anwendungen gemacht werden könnten.  
 
 Der Fokus liegt bei mir also im archivischen Bereich. In einem Praktikum in einem historischen Museum lernte ich noch die Fachdatenbank Museumplus kennen setzte mich dort mit Kollektion Management Software auseinander. Zudem hatte ich für kurze Zeit eine Stelle im Publication Service eines Forschungsinstituts und konnte dort einen kleinen Einblick in die Welt der Forschungsdaten erhalten.
 
