@@ -20,8 +20,16 @@ OpenRefine soll hier speziell erwähnt werden, da ich dies ganz neu kennenlernte
 Teilweise eher Oberfläche und viele Kataloge kennengelernt.
 Punkte aus den Erwartungen. Schwierigkeit Lerntagebuch - persönliche Erfahrungen schreiben gemischt mit fachlichem. Während BT wo man immer nur wissenschaftlich schreiben sollte
 
-Was abgedeckt wurde:
-Was noch offen blieb:
+Was von meinen Erwartungen abgedeckt wurde: 
+- Kennenlernen neuer Archivinformationssysteme
+- Record in Context
+- 
 
-Allgemein spannende Thematik vielleicht etwas viel. Für mich aus dem Archivbereich spannende Inhalte.
+
+Was noch offen blieb:
+- Spezialitäten bei digitalen Angeboten von AV Medien
+  - Möglichkeiten für den Direktzugriff auf digitales Archivgut ermöglichen 
+- digitale Langzeitarchivierung, Hintergrund der Checksummen berechnung und Fixity Checks
+
+Es war ein grosser Rundumschlag über die Biblitoheks- und Archivinformatik. Allgemein spannende Thematik vielleicht etwas viel. Für mich aus dem Archivbereich spannende Inhalte.
 
