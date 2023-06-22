@@ -31,5 +31,6 @@ Was noch offen blieb:
   - Möglichkeiten für den Direktzugriff auf digitales Archivgut ermöglichen 
 - digitale Langzeitarchivierung, Hintergrund der Checksummen berechnung und Fixity Checks
 
-Es war ein grosser Rundumschlag über die Biblitoheks- und Archivinformatik. Allgemein spannende Thematik vielleicht etwas viel. Für mich aus dem Archivbereich spannende Inhalte.
+Es war ein grosser Rundumschlag über die Biblitoheks- und Archivinformatik. Vielleicht hätte der Lernerfolg noch grösser werden können, wenn das Modul zu einem früheren Zeitpunkt im Studium stattgefunden hätte. Allgemein spannende Thematik vielleicht etwas viel. Für mich aus dem Archivbereich spannende Inhalte.
 
+Nun ist dieses Modul auch vorbei und ich konnte einiges auf meinen weiteren Weg mitnehmen.
