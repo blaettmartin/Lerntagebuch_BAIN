@@ -32,6 +32,6 @@ Was noch offen blieb:
 
 #### Fazit
 
-Es war ein grosser Rundumschlag über die Biblitoheks- und Archivinformatik. Vielleicht hätte der Lernerfolg noch grösser werden können, wenn das Modul zu einem früheren Zeitpunkt im Studium stattgefunden hätte. Allgemein fand ich es eine spannende Thematik und werde einiges auf meinen Weg mitnehmen können
+Es war ein grosser Rundumschlag über die Bibliothek-  und Archivinformatik. Vielleicht hätte der Lernerfolg noch grösser werden können, wenn das Modul zu einem früheren Zeitpunkt im Studium stattgefunden hätte. Allgemein fand ich es eine spannende Thematik und werde einiges auf meinen Weg mitnehmen können
 
 Nun ist dieses Modul auch schon wieder durch ✔️ und ich dem Abschluss einen Schritt näher 🎊🎊
