@@ -1,4 +1,5 @@
 ## Wo bin ich gestartet?
+Liebes Lerntagebuch, zu Beginn will ich einmal nach den ersten zwei Lektionen erläutern wo ich gestartet bin.
 
 Ich arbeite aktuell im Stadtarchiv Zürich im Bereich Vermittlung und Erschliessung. In unserem Archiv gibt es eine eigene Fach-IT Abteilung, welche für uns die Fachanwendungen konfiguriert und weitere Dinge im Informatik Bereich löst.  Dadurch hatte ich bisher nur einen kleinen Einblick in die Welt der Bibliotheks- und Archivinformatik. Ich kenne gewisse Fachanwendungen und habe mit diesen gearbeitet, jedoch einfach auf der Anwenderinnen-Seite.
 
