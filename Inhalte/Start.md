@@ -11,7 +11,7 @@ Ich kenne folgende Archiv- & Bibliotheksanwendungen aus meiner Stelle oder aus e
 - CMI Archiv (früher CMI STAR)
 - Archives Quickaccess
 
-Diese Anwendungen wurde von meiner Seite für die Erfassung / Erschliessung verwendet. 
+Diese Anwendungen wurden von meiner Seite für die Erfassung / Erschliessung verwendet. 
 
 Bei der Erstellung eines neuen AV-Medien Formulars war ich beispielsweise beteiligt und habe die zu erstellenden Felder bestimmt. Die Implementierung in Scope.Archive wurde dann durch unsere Fach-IT umgesetzt.  Ich hatte letztens noch eine eintägige berufliche Weiterbildung für die Qualitätskontrolle von digitalen Audiovisuellen Medien. Dort wurde die Anwendung QCTools, MediaConch, Mediainfo, ffprobe, fq und Hex-Editor betrachtet. Zudem wurden noch einige Befehle für im Terminal gezeigt, damit diese Anwendungen auch automatisiert laufen und die Qualitätskontrolle durchführen können. Es war aber ein Workshop für Einsteiger:innen und zeigte einfach auf welche Dinge mit diesen Anwendungen gemacht werden könnten.  
 
